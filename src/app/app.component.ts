@@ -22,11 +22,20 @@ export class MyApp {
     this.cities = [
       { title: 'Auto (IP based)', name: 'here' },
       { title: 'Jakarta', name: 'jakarta' },
-      { title: 'Palembang', name: 'palembang' },
+      { title: 'Palembang, Sumatera Selatan', name: 'palembang' },
+      { title: 'Medan, Sumatera Utara', name: 'indonesia/medan' },
+      { title: 'Bukit Tinggi, Sumatera Barat', name: 'indonesia/kototabang' },
+      { title: 'Indrapuri', name: 'indonesia/indrapuri' },
       { title: 'Sukabumi', name: 'indonesia/cibeureum' },
       { title: 'Jambi', name: 'jambi' },
       { title: 'Samarinda', name: 'samarinda' },
-      { title: 'Bukit Tinggi', name: 'bukitinggi' },
+      { title: 'Pangkalanbun', name: 'indonesia/pangkalanbun' },
+      { title: 'Muarateweh', name: 'indonesia/muarateweh' },      
+      { title: 'Buntok', name: 'indonesia/buntok' },      
+      { title: 'Pontianak', name: 'indonesia/pontianak' },      
+      { title: 'Sampit', name: 'indonesia/sampit' },      
+      { title: 'Banjarbaru', name: 'indonesia/banjarbaru' },      
+      { title: 'Palangka Raya', name: 'indonesia/palangkaraya' },      
       { title: 'Pekan Baru', name: 'pekanbaru' }
     ];
 
