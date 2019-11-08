@@ -21,11 +21,13 @@ export class MyApp {
     // define list of selectable city
     this.cities = [
       { title: 'Auto (IP based)', name: 'here' },
-      { title: '東京', name: '@2286' },
-      { title: '川口', name: '@5557' },
-      { title: 'Hà Nội', name: '@8641' },
-      { title: 'Đà Nẵng', name: '@1584' },
-      { title: 'Hồ Chí Minh', name: '@8767' }
+      { title: 'Jakarta', name: 'jakarta' },
+      { title: 'Palembang', name: 'palembang' },
+      { title: 'Sukabumi', name: 'indonesia/cibeureum' },
+      { title: 'Jambi', name: 'jambi' },
+      { title: 'Samarinda', name: 'samarinda' },
+      { title: 'Bukit Tinggi', name: 'bukitinggi' },
+      { title: 'Pekan Baru', name: 'pekanbaru' }
     ];
 
   }

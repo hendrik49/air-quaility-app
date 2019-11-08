@@ -31,7 +31,7 @@ export class HomePage {
     loading.present();
 
     let city_name = this.city.name || 'here';
-    let url = 'https://api.waqi.info/feed/' + city_name + '/?token=0d6fe4d14e1317da3d08c85327831f634082b3df';
+    let url = 'https://api.waqi.info/feed/' + city_name + '/?token=0c08a30ded84a3074abf1e63da57cec3fb6d9982 ';
     this.http.get(url)
       .toPromise()
       .then(response => {
