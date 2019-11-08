@@ -77,6 +77,12 @@
             PM2.5
             <ion-badge color="danger" item-end>{{aqi.data.iaqi.pm25.v}}</ion-badge>
           </ion-item>
+          <ion-item>
+            <ion-range min="0" max="250" step="25" snaps="true" color="danger" disabled [(ngModel)]="aqi.data.iaqi.pm25.v">
+              <ion-icon range-left name="medkit"></ion-icon>
+              <ion-icon range-right name="nuclear"></ion-icon>
+            </ion-range>
+          </ion-item>
         </ion-list-header>
       </ion-list>
 
