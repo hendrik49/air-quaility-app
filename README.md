@@ -12,5 +12,5 @@ Air quality app build with cool hybrid framework Ionic and use API that provided
   <img width="200" src="https://github.com/hendrik49/air-quaility-app/blob/master/screenshoots/localhost_8100_1.png" alt="Air quality image 1"/>
   <img width="200" src="https://github.com/hendrik49/air-quaility-app/blob/master/screenshoots/localhost_8100_2.png" alt="Air quality image 3"/>
   <img width="200" src="https://github.com/hendrik49/air-quaility-app/blob/master/screenshoots/localhost_8100_3.png" alt="Air quality image 2"/>
-  <img width="200" src="https://github.com/chienkira/air-quality/raw/master/screenshoots/Screenshot_2018-08-24-22-48-56-202_io.ionic.starter.png" alt="Air quality image 4"/>
+  <img width="200" src="https://github.com/hendrik49/air-quaility-app/blob/master/screenshoots/localhost_8100_4.png" alt="Air quality image 4"/>
 </p>
